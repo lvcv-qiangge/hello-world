@@ -1,0 +1,5 @@
+[local]
+name=local
+baseurl=file:///cdrom
+enabled=1
+gpgcheck=0
